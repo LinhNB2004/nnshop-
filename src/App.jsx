@@ -14,6 +14,7 @@ import ProductDetail from "./Pages/ProductDetail";
 import Dashboard from "./Pages/Admin/Dashboard";
 import ProductAdd from "./Pages/Admin/ProductAdd";
 import ProductEdit from "./Pages/Admin/ProductEdit";
+import ProductForm from "./Pages/Admin/ProductForm";
 // function Hello(props) {
 //   return <h1>Hello {props.username}</h1>;
 // }
@@ -94,6 +95,23 @@ function App() {
       }
     })();
   };
+
+  // HandleProduct
+  const handleProduct = async (data) => {
+    if (data.id) {
+      const res = await instance.patch(`/products/${data.id}`, data);
+      setProducts([...products, res.data]);
+      const newData = await instance.get(`/products`);
+      // console.log(newData);
+      setProducts(newData.data);
+    } else {
+      const res = await instance.post("/products", data);
+      setProducts([...products, res.data]);
+    }
+    alert(" Thành công! chuyển hướng sang Admin ");
+    navigate("/admin");
+  };
+
   return (
     <>
       {/* <Hello username="Linh" /> */}
@@ -114,13 +132,22 @@ function App() {
                 <Dashboard data={products} removeProduct={removeProduct} />
               }
             />
-            <Route
+            {/* <Route
               path="/admin/add"
               element={<ProductAdd onAdd={handleSubmit} />}
             />
             <Route
               path="/admin/edit/:id"
               element={<ProductEdit onEdit={handleSubmitEdit} />}
+            /> */}
+
+            <Route
+              path="/admin/add"
+              element={<ProductForm handleProduct={handleProduct} />}
+            />
+            <Route
+              path="/admin/edit/:id"
+              element={<ProductForm handleProduct={handleProduct} />}
             />
           </Route>
 

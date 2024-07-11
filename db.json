@@ -2,9 +2,9 @@
   "products": [
     {
       "id": 3,
-      "title": "Nước hoa CHANEL",
+      "title": "Nước hoa CHANEL 66",
       "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
-      "price": 1249,
+      "price": 12496,
       "discountPercentage": 15.46,
       "rating": 4.09,
       "stock": 36,
@@ -504,6 +504,13 @@
       "thumbnail": "https://i.pinimg.com/474x/ee/a4/96/eea4962122ff4adf18e98a58c080765c.jpg",
       "description": "Thông số kỹ thuật · Kích thước màn hình. 6.7 inches · Độ phân giải màn hình. 2778 x 1284 pixel · Hệ điều hành. iOS15 · Công nghệ màn hình. Super Retina XDR OLED.",
       "id": 35
+    },
+    {
+      "title": "33333",
+      "price": 333,
+      "thumbnail": "https://i.pinimg.com/474x/4c/21/b6/4c21b6f817ed5bd4686703d9efbc39b7.jpg",
+      "description": "iPhone XR có màn hình IPS LCD 6.1\" (828 x 1792 Pixels), bên trong máy là vi xử lý Apple A12 Bionic 6 nhân, đi kèm với chip đồ họa Apple GPU 4 nhân, RAM 3GB.",
+      "id": 36
     }
   ],
   "users": [
