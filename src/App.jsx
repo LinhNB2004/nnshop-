@@ -101,7 +101,7 @@ function App() {
         <Routes>
           <Route path="/">
             <Route index element={<HomePage data={products} />} />
-            {/* <Route path="/home" element={<Navigate to="/" />} /> */}
+            <Route path="/home" element={<Navigate to="/" />} />
             <Route path="/product-detail/:id" element={<ProductDetail />} />
             <Route path="/login" element={<Login />} />
             <Route path="/register" element={<Register />} />

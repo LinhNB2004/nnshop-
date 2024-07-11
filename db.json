@@ -506,5 +506,11 @@
       "id": 35
     }
   ],
-  "users": []
+  "users": [
+    {
+      "email": "linhlttph37534@fpt.edu.vn",
+      "password": "$2a$10$QNNWU.evMAohFY.uxQZ.gu0AL0W3tr7gd75heZZRe6G6xL3hGBZM6",
+      "id": 1
+    }
+  ]
 }
