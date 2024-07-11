@@ -10,7 +10,8 @@ const schemaUser = z.object({
   email: z.string().email(),
   password: z.string().min(6),
 });
-const Register = () => {
+const AuthForm = ({ isRegister }) => {
+  console.log(isRegister);
   const navigate = useNavigate();
   const {
     register,
@@ -22,10 +23,21 @@ const Register = () => {
     // console.log(data);
     (async () => {
       try {
-        await instance.post(`/register`, data);
-        // console.log(res);
-        if (confirm("Đăng kí thành công, chuyển hướng sang Login")) {
-          navigate("/login");
+        if (isRegister) {
+          // REGISTER
+          await instance.post(`/register`, data);
+          // console.log(res);
+          if (confirm("Đăng kí thành công, chuyển hướng sang Login")) {
+            navigate("/login");
+          }
+        } else {
+          //LOGIN
+          const res = await instance.post(`/login`, data);
+          // console.log(res);
+          localStorage.setItem("user", JSON.stringify(res.data));
+          if (confirm("Đăng nhập thành công, chuyển hướng sang Home")) {
+            navigate("/home");
+          }
         }
       } catch (error) {
         console.log(error);
@@ -38,7 +50,7 @@ const Register = () => {
       <Header />
       <div className="box">
         <div className="dangnhap">
-          <h2>Đăng Ký</h2>
+          <h2>{isRegister ? "Register" : "Login"}</h2>
           <form onSubmit={handleSubmit(onSubmit)}>
             <label htmlFor="">Tên tài khoản:*</label> <br />
             <input
@@ -64,7 +76,7 @@ const Register = () => {
             {errors.password?.message && (
               <p className="text-danger">{errors.password?.message}</p>
             )}
-            <button type="submit">Đăng Ký</button>
+            <button type="submit">{isRegister ? "Register" : "Login"}</button>
             <br />
           </form>
         </div>
@@ -73,4 +85,4 @@ const Register = () => {
   );
 };
 
-export default Register;
+export default AuthForm;

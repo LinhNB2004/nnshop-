@@ -518,6 +518,11 @@
       "email": "linhlttph37534@fpt.edu.vn",
       "password": "$2a$10$QNNWU.evMAohFY.uxQZ.gu0AL0W3tr7gd75heZZRe6G6xL3hGBZM6",
       "id": 1
+    },
+    {
+      "email": "linhlinh26052004@gmail.com",
+      "password": "$2a$10$mmdOohWfjl55vYOL/VdPKuLlNy5/28L3fU3eXYUK.mJSNEarxXu.q",
+      "id": 2
     }
   ]
 }

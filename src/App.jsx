@@ -15,6 +15,7 @@ import Dashboard from "./Pages/Admin/Dashboard";
 import ProductAdd from "./Pages/Admin/ProductAdd";
 import ProductEdit from "./Pages/Admin/ProductEdit";
 import ProductForm from "./Pages/Admin/ProductForm";
+import AuthForm from "./Pages/AuthForm";
 // function Hello(props) {
 //   return <h1>Hello {props.username}</h1>;
 // }
@@ -62,49 +63,17 @@ function App() {
     })();
   };
 
-  // Add
-  const handleSubmit = (data) => {
-    // console.log(data);
-    (async () => {
-      try {
-        const res = await instance.post("/products", data);
-        setProducts([...products, res.data]);
-        alert("Thêm sản phẩm thành công");
-        navigate("/admin");
-      } catch (error) {
-        console.log(error);
-      }
-    })();
-  };
-
-  //Edit
-  const handleSubmitEdit = (data) => {
-    // console.log(data);
-    (async () => {
-      try {
-        const res = await instance.patch(`/products/${data.id}`, data);
-        setProducts([...products, res.data]);
-        const newData = await instance.get(`/products`);
-        // console.log(newData);
-        setProducts(newData.data);
-
-        alert("Update sản phẩm thành công");
-        navigate("/admin");
-      } catch (error) {
-        console.log(error);
-      }
-    })();
-  };
-
   // HandleProduct
   const handleProduct = async (data) => {
     if (data.id) {
+      // EDIT
       const res = await instance.patch(`/products/${data.id}`, data);
       setProducts([...products, res.data]);
       const newData = await instance.get(`/products`);
       // console.log(newData);
       setProducts(newData.data);
     } else {
+      // ADD
       const res = await instance.post("/products", data);
       setProducts([...products, res.data]);
     }
@@ -121,8 +90,8 @@ function App() {
             <Route index element={<HomePage data={products} />} />
             <Route path="/home" element={<Navigate to="/" />} />
             <Route path="/product-detail/:id" element={<ProductDetail />} />
-            <Route path="/login" element={<Login />} />
-            <Route path="/register" element={<Register />} />
+            <Route path="/login" element={<AuthForm />} />
+            <Route path="/register" element={<AuthForm isRegister />} />
           </Route>
 
           <Route path="/admin">
@@ -132,14 +101,6 @@ function App() {
                 <Dashboard data={products} removeProduct={removeProduct} />
               }
             />
-            {/* <Route
-              path="/admin/add"
-              element={<ProductAdd onAdd={handleSubmit} />}
-            />
-            <Route
-              path="/admin/edit/:id"
-              element={<ProductEdit onEdit={handleSubmitEdit} />}
-            /> */}
 
             <Route
               path="/admin/add"
