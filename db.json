@@ -1,0 +1,510 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "title": "Nước hoa CHANEL",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 1249,
+      "discountPercentage": 15.46,
+      "rating": 4.09,
+      "stock": 36,
+      "brand": "Samsung",
+      "category": "smartphones",
+      "thumbnail": "https://i.pinimg.com/474x/b6/f1/6f/b6f16fe4177b5cbca008cc8cd4655db4.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/3/1.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "DAISY LOVEuuu",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 280,
+      "discountPercentage": 17.91,
+      "rating": 4.3,
+      "stock": 123,
+      "brand": "OPPO",
+      "category": "smartphones",
+      "thumbnail": "https://i.pinimg.com/474x/9a/35/29/9a3529c0343b0a64f62d49c56c07c1cd.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/4/1.jpg",
+        "https://cdn.dummyjson.com/product-images/4/2.jpg",
+        "https://cdn.dummyjson.com/product-images/4/3.jpg",
+        "https://cdn.dummyjson.com/product-images/4/4.jpg",
+        "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "DELINA EDP",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "Huawei",
+      "category": "smartphones",
+      "thumbnail": "https://i.pinimg.com/474x/14/41/a7/1441a7b92631b79cfed1c66462f1e239.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/5/1.jpg",
+        "https://cdn.dummyjson.com/product-images/5/2.jpg",
+        "https://cdn.dummyjson.com/product-images/5/3.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "SANTAL 33",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 1749,
+      "discountPercentage": 11.02,
+      "rating": 4.57,
+      "stock": 83,
+      "brand": "Apple",
+      "category": "laptops",
+      "thumbnail": "https://i.pinimg.com/474x/3e/9b/1a/3e9b1a0d8326633b520e83194eda764b.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/6/1.png",
+        "https://cdn.dummyjson.com/product-images/6/2.jpg",
+        "https://cdn.dummyjson.com/product-images/6/3.png",
+        "https://cdn.dummyjson.com/product-images/6/4.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "VERSACE",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 1499,
+      "discountPercentage": 4.15,
+      "rating": 4.25,
+      "stock": 50,
+      "brand": "Samsung",
+      "category": "laptops",
+      "thumbnail": "https://i.pinimg.com/474x/f1/e7/fd/f1e7fdc9ba408ad46c33d83e5fadd290.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/7/1.jpg",
+        "https://cdn.dummyjson.com/product-images/7/2.jpg",
+        "https://cdn.dummyjson.com/product-images/7/3.jpg",
+        "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "GUCCI",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 1499,
+      "discountPercentage": 10.23,
+      "rating": 4.43,
+      "stock": 68,
+      "brand": "Microsoft Surface",
+      "category": "laptops",
+      "thumbnail": "https://i.pinimg.com/474x/35/4b/ca/354bcaaf5bfccafcdba600959c277f66.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/8/1.jpg",
+        "https://cdn.dummyjson.com/product-images/8/2.jpg",
+        "https://cdn.dummyjson.com/product-images/8/3.jpg",
+        "https://cdn.dummyjson.com/product-images/8/4.jpg",
+        "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "DAISY MARG JACOBS",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 1099,
+      "discountPercentage": 11.83,
+      "rating": 4.54,
+      "stock": 96,
+      "brand": "Infinix",
+      "category": "laptops",
+      "thumbnail": "https://i.pinimg.com/474x/c5/5c/15/c55c15a90a80652de780a47662bda8f0.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/9/1.jpg",
+        "https://cdn.dummyjson.com/product-images/9/2.png",
+        "https://cdn.dummyjson.com/product-images/9/3.png",
+        "https://cdn.dummyjson.com/product-images/9/4.jpg",
+        "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "IRRESISTIBLE",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 1099,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "laptops",
+      "thumbnail": "https://i.pinimg.com/474x/ce/a4/4d/cea44d9b9eb6474816fe1a51ad3b7b7e.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/10/1.jpg",
+        "https://cdn.dummyjson.com/product-images/10/2.jpg",
+        "https://cdn.dummyjson.com/product-images/10/3.jpg",
+        "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "JO MALONE",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 13,
+      "discountPercentage": 8.4,
+      "rating": 4.26,
+      "stock": 65,
+      "brand": "Impression of Acqua Di Gio",
+      "category": "fragrances",
+      "thumbnail": "https://i.pinimg.com/474x/8a/3e/d9/8a3ed96c609f37dcac7fe35238fa2a69.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/11/1.jpg",
+        "https://cdn.dummyjson.com/product-images/11/2.jpg",
+        "https://cdn.dummyjson.com/product-images/11/3.jpg",
+        "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "CHANEL",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 40,
+      "discountPercentage": 15.66,
+      "rating": 4,
+      "stock": 52,
+      "brand": "Royal_Mirage",
+      "category": "fragrances",
+      "thumbnail": "https://i.pinimg.com/474x/97/00/6a/97006a4bb9fc50c11bc88e79da5fed19.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/12/1.jpg",
+        "https://cdn.dummyjson.com/product-images/12/2.jpg",
+        "https://cdn.dummyjson.com/product-images/12/3.png",
+        "https://cdn.dummyjson.com/product-images/12/4.jpg",
+        "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "AMELINE",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 13,
+      "discountPercentage": 8.14,
+      "rating": 4.59,
+      "stock": 61,
+      "brand": "Fog Scent Xpressio",
+      "category": "fragrances",
+      "thumbnail": "https://i.pinimg.com/474x/80/dc/4b/80dc4ba72b3055a7b9def14823823700.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/13/1.jpg",
+        "https://cdn.dummyjson.com/product-images/13/2.png",
+        "https://cdn.dummyjson.com/product-images/13/3.jpg",
+        "https://cdn.dummyjson.com/product-images/13/4.jpg",
+        "https://cdn.dummyjson.com/product-images/13/thumbnail.webp"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "MONTBLANK",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 120,
+      "discountPercentage": 15.6,
+      "rating": 4.21,
+      "stock": 114,
+      "brand": "Al Munakh",
+      "category": "fragrances",
+      "thumbnail": "https://i.pinimg.com/474x/88/ae/5d/88ae5d92e8e65b35be4e955e2c063c65.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/14/1.jpg",
+        "https://cdn.dummyjson.com/product-images/14/2.jpg",
+        "https://cdn.dummyjson.com/product-images/14/3.jpg",
+        "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "JASMINE & JUZU",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 30,
+      "discountPercentage": 10.99,
+      "rating": 4.7,
+      "stock": 105,
+      "brand": "Lord - Al-Rehab",
+      "category": "fragrances",
+      "thumbnail": "https://i.pinimg.com/474x/02/07/d3/0207d3f9c0864da2b1db668884e0f129.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/15/1.jpg",
+        "https://cdn.dummyjson.com/product-images/15/2.jpg",
+        "https://cdn.dummyjson.com/product-images/15/3.jpg",
+        "https://cdn.dummyjson.com/product-images/15/4.jpg",
+        "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "FRESB ROSE MORNING",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 19,
+      "discountPercentage": 13.31,
+      "rating": 4.83,
+      "stock": 110,
+      "brand": "L'Oreal Paris",
+      "category": "skincare",
+      "thumbnail": "https://i.pinimg.com/474x/38/a9/ee/38a9ee173066ad125f341653564fa706.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/16/1.png",
+        "https://cdn.dummyjson.com/product-images/16/2.webp",
+        "https://cdn.dummyjson.com/product-images/16/3.jpg",
+        "https://cdn.dummyjson.com/product-images/16/4.jpg",
+        "https://cdn.dummyjson.com/product-images/16/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "LOVE STORY",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 12,
+      "discountPercentage": 4.09,
+      "rating": 4.52,
+      "stock": 78,
+      "brand": "Hemani Tea",
+      "category": "skincare",
+      "thumbnail": "https://i.pinimg.com/474x/22/c1/2d/22c12d6ca976421b5ee4a6074ee9ade1.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/17/1.jpg",
+        "https://cdn.dummyjson.com/product-images/17/2.jpg",
+        "https://cdn.dummyjson.com/product-images/17/3.jpg",
+        "https://cdn.dummyjson.com/product-images/17/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "CHANEL",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 40,
+      "discountPercentage": 13.1,
+      "rating": 4.56,
+      "stock": 88,
+      "brand": "Dermive",
+      "category": "skincare",
+      "thumbnail": "https://i.pinimg.com/474x/92/d0/5b/92d05b805fc52fe958ee333db3e5332e.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/18/1.jpg",
+        "https://cdn.dummyjson.com/product-images/18/2.jpg",
+        "https://cdn.dummyjson.com/product-images/18/3.jpg",
+        "https://cdn.dummyjson.com/product-images/18/4.jpg",
+        "https://cdn.dummyjson.com/product-images/18/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "ANUA",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 46,
+      "discountPercentage": 10.68,
+      "rating": 4.42,
+      "stock": 54,
+      "brand": "ROREC White Rice",
+      "category": "skincare",
+      "thumbnail": "https://i.pinimg.com/474x/50/7e/4b/507e4b12d718b39e543fa6f570f7d904.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/19/1.jpg",
+        "https://cdn.dummyjson.com/product-images/19/2.jpg",
+        "https://cdn.dummyjson.com/product-images/19/3.png",
+        "https://cdn.dummyjson.com/product-images/19/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "GUCCI",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 70,
+      "discountPercentage": 16.99,
+      "rating": 4.06,
+      "stock": 140,
+      "brand": "Fair & Clear",
+      "category": "skincare",
+      "thumbnail": "https://i.pinimg.com/474x/34/ca/e5/34cae5d8e0035a3d8e6597a162a7b6d7.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/20/1.jpg",
+        "https://cdn.dummyjson.com/product-images/20/2.jpg",
+        "https://cdn.dummyjson.com/product-images/20/3.jpg",
+        "https://cdn.dummyjson.com/product-images/20/4.jpg",
+        "https://cdn.dummyjson.com/product-images/20/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "ONE DAY",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 20,
+      "discountPercentage": 4.81,
+      "rating": 4.44,
+      "stock": 133,
+      "brand": "Saaf & Khaas",
+      "category": "groceries",
+      "thumbnail": "https://i.pinimg.com/474x/6f/69/63/6f6963a2abf6499ee7f50d43db64f3ec.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/21/1.png",
+        "https://cdn.dummyjson.com/product-images/21/2.jpg",
+        "https://cdn.dummyjson.com/product-images/21/3.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "GUCCI",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 14,
+      "discountPercentage": 15.58,
+      "rating": 4.57,
+      "stock": 146,
+      "brand": "Bake Parlor Big",
+      "category": "groceries",
+      "thumbnail": "https://i.pinimg.com/474x/65/36/b9/6536b950ab4bbe9335167ff8b95e02d2.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/22/1.jpg",
+        "https://cdn.dummyjson.com/product-images/22/2.jpg",
+        "https://cdn.dummyjson.com/product-images/22/3.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "NARCISO",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 14,
+      "discountPercentage": 8.04,
+      "rating": 4.85,
+      "stock": 26,
+      "brand": "Baking Food Items",
+      "category": "groceries",
+      "thumbnail": "https://i.pinimg.com/474x/60/40/e1/6040e1193759e82f057c835901dc7714.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/23/1.jpg",
+        "https://cdn.dummyjson.com/product-images/23/2.jpg",
+        "https://cdn.dummyjson.com/product-images/23/3.jpg",
+        "https://cdn.dummyjson.com/product-images/23/4.jpg",
+        "https://cdn.dummyjson.com/product-images/23/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "NINARICCI",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 46,
+      "discountPercentage": 16.8,
+      "rating": 4.94,
+      "stock": 113,
+      "brand": "fauji",
+      "category": "groceries",
+      "thumbnail": "https://i.pinimg.com/474x/2b/8a/c1/2b8ac16cd304e1801fd0e24e293b6dd7.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/24/1.jpg",
+        "https://cdn.dummyjson.com/product-images/24/2.jpg",
+        "https://cdn.dummyjson.com/product-images/24/3.jpg",
+        "https://cdn.dummyjson.com/product-images/24/4.jpg",
+        "https://cdn.dummyjson.com/product-images/24/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "DIOR",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 70,
+      "discountPercentage": 13.58,
+      "rating": 4.87,
+      "stock": 47,
+      "brand": "Dry Rose",
+      "category": "groceries",
+      "thumbnail": "https://i.pinimg.com/474x/b7/6a/0d/b76a0df1bbb91a583d66ebd6feca2c06.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/25/1.png",
+        "https://cdn.dummyjson.com/product-images/25/2.jpg",
+        "https://cdn.dummyjson.com/product-images/25/3.png",
+        "https://cdn.dummyjson.com/product-images/25/4.jpg",
+        "https://cdn.dummyjson.com/product-images/25/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "CHANEL",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 41,
+      "discountPercentage": 17.86,
+      "rating": 4.08,
+      "stock": 131,
+      "brand": "Boho Decor",
+      "category": "home-decoration",
+      "thumbnail": "https://i.pinimg.com/474x/92/c5/bf/92c5bf4cf09052d1bedaef4d3c323f99.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/26/1.jpg",
+        "https://cdn.dummyjson.com/product-images/26/2.jpg",
+        "https://cdn.dummyjson.com/product-images/26/3.jpg",
+        "https://cdn.dummyjson.com/product-images/26/4.jpg",
+        "https://cdn.dummyjson.com/product-images/26/5.jpg",
+        "https://cdn.dummyjson.com/product-images/26/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "DAISY LOVE",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 60,
+      "discountPercentage": 15.34,
+      "rating": 4.44,
+      "stock": 7,
+      "brand": "luxury palace",
+      "category": "home-decoration",
+      "thumbnail": "https://i.pinimg.com/474x/08/fa/40/08fa4058da49df289504c9eec9096699.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/29/1.jpg",
+        "https://cdn.dummyjson.com/product-images/29/2.jpg",
+        "https://cdn.dummyjson.com/product-images/29/3.webp",
+        "https://cdn.dummyjson.com/product-images/29/4.webp",
+        "https://cdn.dummyjson.com/product-images/29/thumbnail.webp"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "DIOR",
+      "description": "Nước Hoa Laura Anne Diamond Femme 45ml Pink với mùi hương hoa lấp lánh, sự ngọt ngào của Hoa hồng được làm sáng bởi sắc thái tươi mát của lá violet và được tăng thêm sự cuốn hút bởi xạ hương. Nhóm hương: Floral Fruity thích hợp với những bạn trẻ vì mùi hương ngọt ngào, năng động, trẻ trung của nó.",
+      "price": 30,
+      "discountPercentage": 2.92,
+      "rating": 4.92,
+      "stock": 54,
+      "brand": "Golden",
+      "category": "home-decoration",
+      "thumbnail": "https://i.pinimg.com/474x/fb/3c/93/fb3c931445ffa8a137c74f269b5444a0.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/30/1.jpg",
+        "https://cdn.dummyjson.com/product-images/30/2.jpg",
+        "https://cdn.dummyjson.com/product-images/30/3.jpg",
+        "https://cdn.dummyjson.com/product-images/30/thumbnail.jpg"
+      ]
+    },
+    {
+      "thumbnail": "https://i.pinimg.com/474x/ee/a4/96/eea4962122ff4adf18e98a58c080765c.jpg",
+      "title": "Dior",
+      "price": 300,
+      "description": "nnnnnnnn",
+      "id": 32
+    },
+    {
+      "thumbnail": "https://i.pinimg.com/474x/8e/78/b6/8e78b67090305f783f55fb3804cbf2c8.jpg",
+      "title": "Hoa Pháp",
+      "price": 200,
+      "description": "kkkkkkkk",
+      "id": 33
+    },
+    {
+      "thumbnail": "https://i.pinimg.com/474x/8e/78/b6/8e78b67090305f783f55fb3804cbf2c8.jpg",
+      "title": "Hoa Mỹ",
+      "price": 500,
+      "description": "kkkkk",
+      "id": 34
+    },
+    {
+      "title": "333",
+      "price": "333",
+      "thumbnail": "https://i.pinimg.com/474x/ee/a4/96/eea4962122ff4adf18e98a58c080765c.jpg",
+      "description": "Thông số kỹ thuật · Kích thước màn hình. 6.7 inches · Độ phân giải màn hình. 2778 x 1284 pixel · Hệ điều hành. iOS15 · Công nghệ màn hình. Super Retina XDR OLED.",
+      "id": 35
+    }
+  ],
+  "users": []
+}
