@@ -1,39 +1,19 @@
 import { useEffect, useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
-import "./App.scss";
-import Header from "./Components/Header";
-import Footer from "./Components/Footer";
-import NotFound from "./Pages/NotFound";
 import { Navigate, Route, Routes, useNavigate } from "react-router-dom";
-import HomePage from "./Pages/HomePage";
-import Login from "./Pages/Login";
-import Register from "./Pages/Register";
+import "./App.scss";
 import instance from "./Axios/api";
-import ProductDetail from "./Pages/ProductDetail";
+import Footer from "./Components/Footer";
+import PrivateRoute from "./Components/PrivateRoute";
 import Dashboard from "./Pages/Admin/Dashboard";
-import ProductAdd from "./Pages/Admin/ProductAdd";
-import ProductEdit from "./Pages/Admin/ProductEdit";
 import ProductForm from "./Pages/Admin/ProductForm";
 import AuthForm from "./Pages/AuthForm";
-// function Hello(props) {
-//   return <h1>Hello {props.username}</h1>;
-// }
+import HomePage from "./Pages/HomePage";
+import NotFound from "./Pages/NotFound";
+import ProductDetail from "./Pages/ProductDetail";
 
 function App() {
   const [products, setProducts] = useState([]);
   const navigate = useNavigate();
-
-  // useEffect(() => {
-  //   fetch("http://localhost:3000/products")
-  //     .then((response) => response.json())
-  //     .then((data) => {
-  //       console.log(data);
-  //       setProducts(data);
-  //     })
-  //     .catch((error) => console.log(error));
-  // }, []);
-
   useEffect(() => {
     (async () => {
       try {
@@ -94,7 +74,8 @@ function App() {
             <Route path="/register" element={<AuthForm isRegister />} />
           </Route>
 
-          <Route path="/admin">
+          {/* ADMIN */}
+          <Route path="/admin" element={<PrivateRoute />}>
             <Route
               index
               element={

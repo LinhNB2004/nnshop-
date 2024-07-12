@@ -523,6 +523,11 @@
       "email": "linhlinh26052004@gmail.com",
       "password": "$2a$10$mmdOohWfjl55vYOL/VdPKuLlNy5/28L3fU3eXYUK.mJSNEarxXu.q",
       "id": 2
+    },
+    {
+      "email": "linhlinh11@gmail.com",
+      "password": "$2a$10$PjQMmQpwIz1mP2R.qRCn8OM7fmYXdvAs49uwFS/Ig5u8XUUDoJPRK",
+      "id": 3
     }
   ]
 }
